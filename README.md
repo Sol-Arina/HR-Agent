@@ -1,2 +1,2 @@
 # HR-Agent
-Simple HR agent powered by GigaChat
+Simple HR agent using LangChain (powered by GigaChat)
